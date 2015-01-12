@@ -1,0 +1,39 @@
+<title>intro
+:We human like to represent things with symbols.
+:One example would be the Arabic numerals.
+<img>number
+:They are just symbols representing values. 
+<maths>sre
+:When you see 6 and 1, you would know their values immediately and you can also tell that adding them up will give the value of 7. 
+<img>61
+:But imagine this: when you were young, you were taught that this symbol "6" does not represent the value 6. Instead, you were taught that this symbol "6" represent the value 3. 
+<maths>re1
+<maths>re2
+<maths>re3
+:And then 6+1=7 wouldn't make any sense to you, 6+1 should equal to 4.
+<maths>og
+:Representating a value using a symbol is the concept of representation.
+<title>algebra representation
+:In elementary algebra, besides representing already known values with numeral, we also use letters (or other symbols) to represent values that are not known or not determined.
+<img>letters
+:Sometimes the letter in the eqaution represents a fixed value:
+<maths>a15
+<maths>a15o
+:But sometimes they represent multiple values.
+<maths>ab
+:The letters "y" and "t" each can represent any value as long as they add up together equal to 100.
+<maths>ab2
+:We can say that "y" and "t" share a relationship and the relationship is that when they add up together it is eqaul to 100.
+<title>expressions
+:In mathematics, expression is anything that expresses a value. The value does not have to be a fixed value.
+<img>expressions
+:We use symbols to represent values and so the symbols express those values and are called an expression.
+<maths>expr
+:Sometimes an expression may express a fixed value only when there is an equation.
+<img>exprx
+:In different eqaution it may express a different value.
+<maths>exprxx
+:Expressions can be in any length and made up of different symbols. It is an expression as long as it expresses a value.
+<maths>explong
+:There is no rule saying that an expression has to express a fixed value.
+<maths>notfixed

@@ -1,0 +1,40 @@
+<title>partial fraction expansion
+:The partial fraction expansion is a procedure used to rewrite a algebraic fraction into the sum of two or more algebraic fraction.
+<maths>par
+:Before we start expanding the entire fraction, we need to make sure the denominator is factorized.
+<maths>facp
+:The number of products determines how many fractions it can expand into.
+<maths>facpp
+:After we have factorized the denominator, we can start off expanding it by writing an equation in this form:
+<maths>faequ
+:The numerator of the fraction we want to expand is actually the sum of the products of each numberator multiplies by each other's denominator.
+<maths>faact
+:And that gives us the equation:
+<maths>finalequation
+:To find out what A is, we need to plug a value to x such that it cancels away the other product (the one that consists of B).
+<maths>findingA1
+:This would make it into a simple equation that we can solve easily.
+<maths>findingA2
+:Meanwhile, to find the value of B, we do the same and cancel away the other product (the one that consists of A).
+<img>findingB
+<title>Do not fear
+:Sometimes we may encounter questions like these. Do not fear, they are simpler than they look.
+<b>
+<img>q0
+:To solve this question, we use the same way as before:
+<maths>q0a
+:The squaring (x+1) doesn't do much difference. To solve A and B we just have to plug in values to x that cancel away the other product.
+<maths>q0b
+<b>
+<img>q1
+:The solution to this question is simple, we just have to see A as
+<maths>q1a
+:And solve B and C by plugging a value to x and cancelling the other prodcuts
+<img>q1b
+:In other to solve A, we can make the equation into a simple algebraic equation by plugging the answers we just got into B and C and plugging 0 to x:
+<img>q1c
+:Or we can solve A by using limit. It saves a lot of time this way.
+<maths>q1d
+:You may not yet understand why this limit can cancel out everything in the brackets and give 5 as an answer, but this is actually the best way to solve for A. The limit will work this way as long as the denominator and numerator are polynomials of the same degrees.
+
+

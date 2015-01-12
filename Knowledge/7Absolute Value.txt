@@ -1,0 +1,8 @@
+<title>Absolute value
+:The absolute value of a number is just like the positive version of a number.
+<maths>
+:The graph of absolute value therefore looks like this:
+<img>
+:An equation with absolute value can be thought of as a combination of two different equations.
+<maths>
+:

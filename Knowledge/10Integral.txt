@@ -1,0 +1,47 @@
+<title>intro
+:To calculate the area under a graph above x-axis of a function, we use a method called integration.
+<img>
+:The term integral can be used to refer to two types of integrals
+<maths>
+:1.indefinite integral
+<maths>
+:Indefinite integral is also known as antiderivative. The antiderivative of a function, f(x), is simply another function, A(x), whose derivative is f(x).
+<maths>
+:It is the simply undoing differenication.
+<maths>
+:2.definite integral
+<maths>
+:Definite integral is basically the area under a graph above x-axis of a function between  an interval [a,b].
+<maths>
+:Here is a more formal defintion.
+<img>
+<img>
+<title>indefinite integral
+:To compute the indefinite integral of a function, we need to undo the differiciation. Here are certain techniques we can use.
+<maths>
+:1.using identies: Here is a list of equations that will help when it comes to indefinite integration.
+<img>
+<img>
+<img>
+:2.using the sum rule:
+<img>
+:3.using the constant factor rule
+<img>
+:4.reversing the product rule
+<img>
+:4.u-substitution
+<img>
+:5.using partial fractions expansion
+<img>
+:One thing we need to take note off when undoing the differiciation is that, we will actually get a infinite number of functions.
+<maths>
+:Difffericing a constant will give us 0 in the differeication and thus the final result after antidifferication will always be in this form
+<maths>
+:We use C here to represent a consant and it can be any constant. And it wil be gone after differenicating the function.
+<maths>
+
+<title>definite integral
+:To compute the definite intergral of a function, we just subtract the indefinite integral with a as x by the indefinite integral with b as x
+<img>
+:Unlike indefinite integration, we will not get an infinite number of number after definite integration, because the constant C will be canceled out after subtraction.
+<maths>

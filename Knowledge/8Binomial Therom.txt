@@ -1,0 +1,33 @@
+<title>intro
+
+:A binomial is a polynomial with two terms.
+<maths>
+<title>Binomial theorom
+:Binomial theorom is a mathematical statement about the algebraic expansion of powers of a binomial.
+<maths>binom
+<maths>bic
+:This theorem shows that we can expand the power of a+b into a sum according to a formula as long as the exponent is a positive integer:
+<maths>bf
+:Actually, this theorm is describing the pattern that can be oberserved when we expand any power of a+b 
+<maths>bi1
+<maths>bi2
+<mahts>bi3
+<maths>bi4
+<maths>bi5
+:The pattern is that when we expand the n power of (a+b), we start off by writing x to the power of n
+<maths>bpattern
+:Then x to the power of (n-1), with y to the power of 1, and a coefficent n
+<maths>bpattern2
+:Then x to the power of (n-2), with y to the power of 2, and a corresponding coefficent
+<maths>bpattern3
+:Then x to the power of (n-3), with y to the power of 3, and a corresponding coefficent
+<maths>bpattern4
+:This goes all the way (x's power minus by 1 for each time) until x's power becomes 0 and y acheives the power of n.
+<maths>
+:One thing to remember is that the coefficent starts decrease when y's power is bigger than x
+<maths>
+
+<maths>bpattern5
+:We can actually even spot the beautiful symmetry here!
+<maths>binomx
+

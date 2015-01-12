@@ -1,0 +1,47 @@
+<title>intro
+:Proof is simply a demonstration that a particular mathematical statement is true.
+<maths>truee
+:A mathematical statement can have more than one proof.
+<maths>proofx
+<title>simple proofs in plane geometry
+:In pre-university mathematics, what we are going to prove are normally simple true statements about some figures on plane geometry.
+<img>
+:To prove them, all we need is to write down is some theorems and properties of the figure which indicate that the statemnt is indeed true.
+<img>
+<title>symmetry and angle properties
+<title>Triangle midpoint theorem and intercept theorem
+:The triangle midpoint theorem and intercept theorem are simply observable facts.
+<maths>
+:Triangle midpoint theorem states that the line segment connecting the midpoints of two sides of a triangle is parallel to the third side and the length of this line is half of the third side.
+<img>
+:This can be easily proven by connecting the midpoint of one of the two sides with the third side
+<img>
+:Triangle intercept theorem states that drawing a line that is paralle to one side of the triangle will divide the other two sides proportionally.
+<img>
+:This can be easily proven by simply realizing the fact that the smaller triangle is a similar figure of the bigger triangle.
+<img>
+<title>tangent-chord theorem, intersecting chords theorem and tangent secant theorems for circles
+:The chord of a circle is simply a line segment whose endpoints both lie on the circle's circumference.
+<img>
+:The tangent of a circle is simply a line that intersects the circle at exactly one point.
+<img>
+:The cicles tangent-chord theorem, intersecting chords theorem and tangent secant theorems are simply observable facts.
+<img>
+:The tangent-chord theorem states that the angle between a tangent and a chord meeting the tangent at the point of contact is equal to the inscribed angle on opposite side of the chord.
+<img>
+:This can be easily proven by drawing two more chords to form another triangle with one side paralle to the tangent.
+<img>
+:Intersecting Chord Theorem statest that two chords of a circle intersecting in the interior of a circle will have the product of the lengths of their two segments equal.
+<img>
+:This can be easily proven by connecting the two endpoints of chords.
+<img>
+:The secant of a circle is simply a line that intersects two point of the circle.
+<img>
+:The tangent–Secant theorem states that the square of the tangent line with endpoints lying on the circle's circumference and on a secant line is equal to the product of the secant's two segments, with one segment's endpoint lying on the circle's circumference.
+<img>
+:This can be easily proven by connecting the other endpoint of the tangent with both the other endpoint of the secant and another point that divides the secant.
+<img>
+
+
+
+

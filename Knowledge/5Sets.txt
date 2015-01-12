@@ -1,0 +1,51 @@
+<title>Intro
+:A set is basically a collection of objects.
+<img>collection
+:A song album, for example, can be thought of as a set of songs.
+<img>album
+:We can use the letter A to represent the entire album, and different numbers to represent the songs in the album. 1 represents the first song, 2 represents the second song... This set of songs can be expressed this way:
+<maths>set
+:1,2,3,4,5,6 are elements (or "members") of A.
+<n>
+:To express if an object is an element of A, we can use the element symbols.
+<maths>elemz
+<maths>elenoo
+:To express the total number of elements in a A, we can write
+<maths>setnum
+:One thing to take note of is that a set can't have duplicate element.
+<maths>setnot
+<img>no
+:That is because in set theory, we only concern about the types of things in a set, but not the quantities.
+<n>
+:When a set has no element, it is called an empty set. B here is an empty set.
+<maths>empty
+<n>
+
+<title>Subset and superset
+:When we have 2 sets (A and B) and A has every element B has,
+<img>vienn
+:we can say that B is a subset of A.
+<maths>subset
+:We can even say that B is a proper subset of A because A has element that B doesn't have.
+<maths>Psubset
+:If A has the exact same elements as B, that means A = B. And B is a subset of A, and A is also a subset of B, but not a proper subset of B.
+<maths>equalx
+<maths>subset
+<maths>ABwow
+<maths>nopope
+<maths>equalline
+<img>dammnn
+:As long as the condition is satisfied, one set is a subset of another set. And this means a set is always a subset of itself.
+<maths>itself
+:The opposite of subset is superset. The notation is just the inverted version of subset.
+<maths>super
+:Writing A is the superset of B is the same as saying B is the subset of A.
+<title>Universal set & Exclusion
+:In set theory,  a universal set is a set which contains all objects that we are concern.
+<img>univs
+:The set of objects that is outside of A but inside of the universal set can be expressed as
+<maths>compl
+:This set is called the complement of set A. The notation ' simply means excluding all objects in a particular set.
+<img>exclu
+
+

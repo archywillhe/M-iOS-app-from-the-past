@@ -1,0 +1,30 @@
+<title>intro
+:In mathematics, a plane is a flat, 2D surface.
+<img>
+:When coordinates are used to specify each point uniquely in a plane, that plane is a Cartesian plane.
+<img>
+<title>Coordinate geometry
+:Coordinate geometry is simply a branch of geometry that concerns more with graphs on coordinate planes, mainly the Cartesian plane.
+<img>
+<title>Finding equation for striaght line
+:To find the equation of a striaght line, we just need to know the coordinates of two points on it
+<img>
+:Using these two coordinates, we can first find the graident of the line:
+<maths>
+:Then we just need to find the y-intercept, and we are done.
+<maths>
+:The final equation should always be in this form:
+<maths>
+<title>Finding length for line segment
+:A line segment is just a line that is bounded by two distinct end points
+<img>
+:To find the length of it, we just use the Pythagors' theoreom
+<img>
+<title>Finding the midpoint of line segment
+:The x-coordinate of the midpoint is the average of the x-coordinates of the two endpoints and the same goes to the y-coordinate.
+<img>
+<title>parallel and perpendicular lines
+
+<title>Equations for circles
+
+<title>Equations for parabola

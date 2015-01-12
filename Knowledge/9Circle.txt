@@ -1,0 +1,36 @@
+<title>circle
+:Circle is an interesting subject to study in geometry. One reason is becuase it is the only shape that always looks the same no matter how you spin it.
+<img>circla
+:Here are the symmetry properties of circles
+:Here are the angle properties of circles
+<title>Circular sector, arc, and circular segment
+:This is the formula we use to calculate the area of a circle.
+<maths>
+:This can be useful when we want to calculate the area of a circular sector. A circular sector is a portion of a circle enclosed by two line segments the length of the radius and an arc.
+<img>
+:To calculate its area, we simply need to multiply the circle's area with a fraction.
+<img>
+:To calculate the length of arc, other than multiplying the circle's area with a fraction, we multiply the circle's circumference with the same fraction.
+<img>
+<n>
+:If we radnomly draw a line from one point on the circumference of the circle to the other point.
+<img>
+:The region that is bounded by an arc and the line is known as a circular segment.
+<img>
+:To calculate the area of a circular segment, we start off by calculating the respective circular sector.
+<img>
+:And then we subtract it by the area of the respective triangle and we are done.
+<img>
+<title>radian
+:Radian is the standard unit of angular measure. (It turns out that degree is not.)
+<maths>
+:One radian is equilvant to the angle subtended at the center of a circle by an arc that is equal in length to the radius of the circle.
+<img>
+:Therefore 1π radian is equal to 180 degrees, because 1π radian is equilvant to the angle subtended at the center of a circle by an arc that is equal in length to 1πr, half the parameter of the circle.
+<img>
+:Thus we can also see that 2π radian is equal to 360 degrees.
+<img>
+:Divding 2π by 360 would give us the degree 1 radian is equilvant to.
+<maths>
+:What is good about the angular unit radian is that to calculate the arc length we just have to multiply the randian of the angle by the radius. The unit radian is invented to work this way to make calculation more elegant.
+<img>

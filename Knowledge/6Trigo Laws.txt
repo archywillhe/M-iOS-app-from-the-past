@@ -1,0 +1,14 @@
+<title>trigonometry rules
+:Trigonometry rules are equation that shows the relationship between different sides and angles in a triangle.
+<img>
+<title>Sine rule
+<img>
+<title>Cosine rule
+<img>
+:The cool thing about cosine rule is that, when c is 90 degree, you'd have a right-angle triangle and it actually becomes the Pythagorus' theorem.
+<img>
+:Therefore cosine rule can be considered as a generalization of pythagorus' theorem. (Cosine rule can be applied to all triangles. But pythagorus' theorem can only be applied to right-triangles)
+<img>
+<titlex>Tangent rule
+<img>
+

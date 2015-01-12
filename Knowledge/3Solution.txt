@@ -1,0 +1,85 @@
+<title>intro
+:The key to solve an algebraic equation is to kill off all the unnecessary blocks. 
+<img>
+:We just have to keep in mind that we gotta keep the values at both side equal.
+<maths>
+:Because it is an equation.
+<maths>
+:If we want to get rid of something at the left side, what we do at the left side have to be done at the right side.
+<maths>
+:Here is a simple example.
+<img>
+:We just have to kill off all the unnecessary blocks and we will get the final answer.
+<img>
+<title>more than one solution
+:Sometimes we may get more than 1 solutions for x.
+<img>
+:That is because there are two differnt numbers, when squared, give the same value.
+<title>fractional equation
+:Sometimes we may encounter scenairos like this:
+<maths>
+:What just need to make both denominators into the same value, and we are ready to go
+<img>
+<title>Solving quatric equations
+:There are times when we are left nothing to kill and we still have not yet gotten the solution.
+<maths>
+:Equation like the one above is called quatric equations.
+<maths>
+:There are basically 4 approaches we can take to solve a quatric equation.
+<maths>
+:1.Factorizing
+<img>
+:This approach does not always work, but when it works, it is considerably the fastest approach.
+<maths>
+:First, we have to get the equation into this format:
+<maths>
+:After that, view the entire equation as:
+<maths>
+:Keep in mind that our final goal is to get the equation into:
+<maths>
+:To do that, the left-over plays an important role.
+<maths>
+:When A is 1, the left-over is the sum of two factors that made up of product B.
+<maths>
+<maths>
+<maths>
+:When A is more than 1, things get a little bit complicated. The left-over is now the sum of two factors that made up of product B with one factor multiplies by A.
+<maths>
+<maths>
+<maths>
+:Or the left-over may be the sum of two factors that made up of product B with one factor multiplies by a factor of A and another multiplies by the other factor of A.
+<maths>
+<maths>
+<maths>
+:To do factorization fast, you need to be sensetive with numbers.
+<maths>
+<maths>
+<maths>
+:2.completing the square
+<img>
+:This approach always works. And it is not that hard, you just have to remember the procedure.
+<maths>
+:First we have to get the equation into this format.
+<maths>
+:Always keep in mind that our final goal is to get the equation into:
+<maths>
+:To do that, we need to get term 3 into the right value (b square) and subtract some value afterwards.
+<maths>
+:In order to get term 3 into the right value (b square), we just gotta take a look at term 2.
+<maths>
+:Term 2 is actually just a product 2ab, and we see a as x, therefore dividing it by 2x will give us b.
+<maths>
+:After that all we have to do is to square b and replace term 3 with b square, and subtract the extra value.
+<maths>
+:When the first term is something other than x square, don't worry, we just need to square it and later divide term 2 (2ab) by it and 2.
+<maths>
+:3.QUADRATIC FORMULA
+<img>
+:Many calculators have this formula saved inside its chip.
+<img>
+:First we have to get the equation into this format.
+<maths>
+:View the coefficient as a,b and c.
+<maths>
+:Plug them into this formula and you are done.
+<maths>

@@ -1,0 +1,57 @@
+<title>Negative number
+:All real numbers can be presented on a number line.
+<maths>numberline
+:Any number before 0 is negative. Any number after 0 is positive.
+<maths>numberg
+:When we minus a number by a bigger number, we get a negative number. Here is an example.
+<maths>minuso
+:This is because 3 is too big for 2, so we are lacking of 1. And lacking of 1 is simply -1.
+<img>negati
+:Calculation involving negative numbers follows the same rule as calculation involving only positive numbers.
+<img>samerule
+:But you have to keep in mind that these numbers are negative.
+<img>negativex
+<n>
+<title>Addition, Subtraction
+:Adding negative value gives you a smaller value.
+<maths>Naddgram
+<maths>Nadd
+<maths>Naddgram2
+<maths>Nadd2
+:Subtracting negative value gives you a bigger value.
+<maths>Nminusgram
+<maths>Nminus
+<maths>Nminusgram2
+<maths>Nminus2
+<n>
+<title>Multiplication
+<n>
+:1. Positive times negative = negative.
+<maths>Nmulti3X
+<maths>Nmulti3
+:You can imagine it as having a positive of amount of the negative values:
+<maths>Nmulti1
+:Or you can think of it as having a negative amount of the positive values.
+<maths>Nmulti2
+<n>
+:2. Negative times negative = positive.
+<maths>Nmulti5
+:A negative number of negative value gives you back a positive value.
+<maths>Nmulti4
+<n>
+:It is like flipping a coin: positive times negative will flip to negative, and negative times negative will flip it twice and gives back positive.
+<img>coinz
+<n>
+<title>Division
+:1.Negative divides by positive = negative.
+<maths>Ndi2
+:You can imagine it as putting a negative amount of things into a positive amount of portions
+<maths>Ndi1
+:2.Positive divides by negative = negative
+<maths>Ndi4
+:You can imagine it as putting a positive amount of things into a negative amount of portions. Since the positive amount of things does not come in negative form, dividing them into negative amount of portions will result in lacking of things in each porition.
+<maths>Ndi3
+:3.Negative divides by negative = positive.
+<maths>Ndi6
+:You can imagine it as putting a negative amount of things into a negative amount of portions. Since negative amount of things comes in negative form, dividing them into negative amount of portions will result in having enough amount of things in each porition.
+<maths>Ndi5

@@ -1,0 +1,24 @@
+<title>Data presentation
+:There are different ways to present a collection of data.
+<n>
+<title>Table
+<img>table
+<title>Bar graph
+<img>bargraph
+<title>Pictogram
+<img>Pictogram
+<title>Line graph
+<img>LineGraph
+<title>Pie chart
+<img>PieChart
+<title>Histogram
+<img>Histogram
+<title>Dot diagram
+<img>DotDiagram
+<title>Stem-and-leaf diagram
+<img>StemAndLeaf
+<title>Cumulative frequency diagram
+<img>Cumulative
+<title>Box-and-whisker plots
+<img>whisz
+<img>whiscy

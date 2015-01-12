@@ -1,0 +1,30 @@
+<title>Intro
+:A theorem is simply a mathematical statement that has been proven to be true. You can think of it as a mathematical truth. "1+1=2" can be viewed as a theroem but...
+:[Tape Here To Read more]
+<hide>we don't normally say that "1+1=2" is a theroem because the word "theorm" is usually used to describe mathematical statement that is not so self-evident (whose proofs are not trivial). However, from a certain mathematical point of view, or rather, in certain system of axioms, "1+1=2" may not appear to be self-evident, and thus can be viewed as a theorm. It actually took two famous mathematicians, Russell and Whitehead, more than 300 pages to prove that "1+1=2", in the book Principia Mathematica, because it is viewed in a particular system of axioms that requires it to have a long proof.
+<hide>Just an extra note here: Other than looking at "1+1=2" as a mathematical statement which says that the value "1+1" is equivalent to the value of "2", we can also look at it as a definition of the symbol "2" (that "2" is defined as the addition of "1" and "1").
+<img>theo
+<title>Pythagoras' theorem
+:One of the most important theorems in trigonometry is the Pythagoras' theorem.
+<img>pytha
+:Pythagoras' theorem states that for all right triangles, the longest side length's square is equal to the sum of the other two side lengths' squares.
+<img>trigp
+:This equation works as long as it is a right triangle.
+<img>
+:For non-right triangle, we use the cosine-rule instead of the pythagoras' theorem.
+<n>
+<title>Applications
+:With the pythagoras' theorem, we can work out one side length of the triangle, when some informations are given:
+<img>trigo1
+:Or even two side lengths of a triangle:
+<img>trigo2
+:Or even three side lengths of a triangle:
+<img>trigo3
+<maths>trigo4
+<title>Proof
+:Here is one elegent way to show that the Pythagoras' theorem is true.
+<img>pythproof
+<things>
+
+
+

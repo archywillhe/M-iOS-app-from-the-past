@@ -1,0 +1,60 @@
+<title>planes
+:We are living in a 3D (3 dimensional) world, where there are length, width and height.
+<img>threed
+:Things we draw on a paper can be considered 2D (2 dimensional). They has no height. However... [Read More]
+<img>twod
+technically speaking, the things that we draw has height (the ink itself on the papaer has height). But we still like to call it 2 dimensional because when we talk about the drawing on a peice of paper we are not concerned about the height of the ink (the height is too insignificant);
+:Real 2D objects can never exist in a 3D space. They can only exist in an imaginary 2D space known as "a plane".
+<img>plane
+:A plane is a space with only 2 dimensions (length and width, but no height).
+<n>
+<title>Area and Parameter
+:In a 2D space (a plane), things occupy areas and have parameters.
+<img>area
+<n>
+<title>Calculating areas of different figures
+:Parallelogram
+<img>parallelogram
+<img>parax
+:Tarpezium
+<img>trapezium
+<img>tarpex
+:Circle
+<img>circle
+<img>circlax
+<title>Calculating perimeters of different figures
+:Perimeter is the length of the path that surrounds a figure.
+<img>perim
+:To calculate the perimeter of a figure, we just need to add up all the side lengths.
+<img>perx
+:We can do a multiplication if all sides have the same length.
+<img>samel
+:For a circle, we use a formula to calculate its perimeter.
+<img>circper
+<title>Volume and Surface Area
+:In a 3D space, things occupy volumes and have surface areas.
+<n>
+<img>volume
+<title>Calculating volumes of different solids
+:Prism (including cuboid, cube, cylinder, etc):
+<img>prisz
+:In geometry, a prism is basically a solid with two opposite ends that are parallel to each other and same in shape, connected straightly by sides that are flat (unless it is a cylinder).
+<img>basetimesheight
+<n>
+:Pyramid (including tetrahedron, square pyramid, cone, etc)
+<img>pyra
+:In geometry, a pyramid is basically a solid with base connecting to a point straightly by sides that are flat (unless it is a cone).
+<img>basetimesheighthree
+<n>
+:Sphere
+<img>spher
+<img>sphere
+<title>Calculating surface areas
+:Surface area is the total area of the solid's surface.
+<img>surc
+:To calculate the surface area of a solid, we need to calculate the areas of different sides first, then add them up.
+<img>sax
+:We can also do a multiplication if some sides have the same area.
+<img>samefax
+:For a sphere, we use a formula to calculate its surface area.
+<img>surfxa

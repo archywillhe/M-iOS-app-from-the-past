@@ -1,0 +1,65 @@
+<title>Introduction
+:Angle is a figure formed by two lines (called the sides of the angle), sharing a common endpoint (called the vertex of the angle)
+<img>asize
+:The size of angle would not change even if its sides increase or decrease in length
+<img>notchanged
+<title>Basic types
+:Angles can be classified according to their sizes. There are mainly 4 types:
+<n>
+:1.acute angle: angles smaller than 90 degrees.
+<img>acuteangle
+:2.right angle: angles that are 90 degrees.
+<img>rightangle
+:3.obtuse angle: angles bigger than 90 degrees but smaller than 180 degress.
+<img>obtuseangle
+:4.reflex angle: angles bigger than 180 degrees.
+<img>reflexangle
+<n>
+:Angles can also be classified according to how they relate to one another.
+<n>
+:Complementary angles: two angles that add up to 90degrees
+<img>complementary
+:Supplementary angles: two angles that add up to 180degrees
+<img>supplementary
+:Vertically opposite angles: two angles with same degree but opposite one another.
+<img>verticall
+:Adjacent angles: Angles that share a side.
+<img>adjc
+<title>Advanced types
+<n>
+<title>Angles formed when there is a polygon
+<img>pologonn
+:Interior angles: angles inside a polygon
+<img>interior
+:To find the sum of interior angles sizes in a polygon, we can use this formula:
+<maths>interiorx
+:Exterior angles: angles formed by extending the sides of polygon
+<img>exteriorx
+:The sum of exterior angles is always 180 degrees.
+<maths>alwaysz
+<n>
+<title>Angles formed by transversal
+:A transversal is a line that passes through two parallel lines at different points.
+<img>transv
+<title>Corresponding angle
+:Corresponding angles are 2 angles of which one is above the other. They have the same size.
+<img>corres
+:There are in total 4 pairs of them.
+<img>corresx
+<title>Alternate interior angle
+:Alternate interior angles are 2 angles that is in the Z shape. They have same degree.
+<img>altei
+:There are 2 pairs of them, the other pairs exist in the reverse Z shape.
+<img>alteix
+<title>Alternate external angle
+:Alternate external angles are angles that are are the furthest away from each other. They have same degree.
+<img>alterx
+:One of them is actually just the vertically opposite angle of the other's corresponding angle.
+<img>alterxx
+:There are in total 2 pairs of them.
+<img>alteez
+<title>Consecutive interior angle
+:Consecutive interior angles are angles that are inside a region. They add up together 180 degrees.
+<img>consec
+:There are only 2 pairs of them.
+<img>consecx

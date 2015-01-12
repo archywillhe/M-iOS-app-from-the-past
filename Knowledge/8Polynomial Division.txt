@@ -1,0 +1,54 @@
+<title>intro
+:A polynomial is an expression constructed from indeterminates and constants, using only the operations of addition, subtraction, multiplication, and non-negative integer exponents.
+<maths>poly1
+:Division of constant is allowed though, because it is equivalent to multiplication by a constant fraction.
+<maths>poly2
+:But division of indeterminates is never allowed in a polynomial. 
+<maths>poly3
+:Square root and any other root are too not allowed. They are the same as having non-integer exponents which are too not allowed.
+<maths>poly4
+:In a polynomail, different elements have their own speical names.
+<img>poly5
+<title>Polynomial division.
+:Polynomial division is pretty much the same as normal division, but we have keep in mind that there are different terms in the division.
+<maths>diffterm
+:To accomplish a polynomial division, we need to start off by arranging the terms in the polynomial in a descending order.
+<maths>polyformate
+:If after the arrangement a term with certain degree has been skipped, we need to add in that term of certain degree with 0 as the coefficient.
+<maths>polyadd
+:Once the terms are in the correct arrangement, we can begin dividing one polynomial by another polynomial.
+<maths>polyd1
+:First, we put everything in the long division format.
+<maths>polyd2
+:Then, divide the first term of the dividend by the highest term of the divisor
+<img>polyd3
+:Multiply the divisor by the result just obtained
+<img>polyd4
+:And subtract it from the first 2 terms of the dividend
+<img>polyd5
+:Obtain the result and go on repeating until we get the final values
+<img>polyd6
+<img>polyd7
+:We can write the final values in an equation with quotient and divisor as products and remainder as the value that has to be added.
+<maths>polydone
+:And this is the same as rewriting an arithmetic division this way:
+<maths>equari
+<title>remainder theoroem
+:The remainder theorem is a mathematical statement stating that the remainder of a polynomial divided by a linear divisor x-c is equal to the value we get when we plug c into the polynomial.
+<img>remain1
+:Here is a way to show that this theorem is correct:
+!1.We let f(x) to be the function of the dividend polynomial
+<maths>remain2
+!2.and let d(x) to be the function of the quotient polynomail
+<maths>reamin3
+!3.And thus we can transform the equation into:
+<maths>remain4
+!4.When we make x = a, we can see that f(a) = r.
+<img>remain5 
+<title>factor theorem
+:The factor theorem is a mathematical statement stating that if k is the root of a polynomial, (x-k) is a factor of the polynomail.
+<img>fa1
+:That is because if after a polynomial division, the remainder is 0, the divsor and the quotient are the factors of the dividend.
+<img>fa2
+:If a polynomail is a factor of another polynomail, it would be able to be divded by that polynomail no matter what the value of x is.
+<img>fa3

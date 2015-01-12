@@ -1,0 +1,51 @@
+<title>intro
+:In mathematics, a plane is a flat, 2D surface.
+<img>plane
+:When coordinates are used to specify each point uniquely in a plane, that plane is a Cartesian plane.
+<img>
+<title>graph of equation
+:The graph of an equation is a collection of points. Each point is a representation of a possible pair of values for x and y that can fit in the equation.
+<img> 
+:Therefore we can say that the graph displays the relationship between the variables x and y in the equation.
+<img>
+:A graph normally exists on a Cartesian plane (a plane with coordinates).
+<img>
+:We can specify a particular point in the line formed by the graph by writing down its x and y coordinates.
+<img>
+:x always comes first, then it is y.
+<maths>
+<title>graph of an linear equation
+:When the equation does not have exponente higher than 1, the graph (in other words, the collection of points) forms a straight line.
+<img>
+:That is also why equations with no exponent higher than 1 are known as linear equations.
+<img>
+<title>steepness of the line
+:The steepness of the line depends on how the value of y changes as we change the value of x.
+<img>
+:How the value of y changes as we change the value of x depends on the factor of y as to x.
+<img>
+:The bigger the factor, the more upward the line points.
+<img>
+:The smaller the factor, the more downward the line points.
+<img>
+:When the factor is positive, the line will always point upward.
+<img>
+:When the factor is negative, the line will always point downward.
+<img>
+:Since the factor is actually controlling the degree of steepness, it is often referred to as the gradient (or slope) of the graph.
+<img>
+:And we can conclude that the graident of a graph tells us how the value of x changes as we changes the value of y.
+<img>
+:When two lines are parallel, each of their y changes according to their corresponding x the same way as each other.
+<img>
+:and therefore they have the same graident, in other words, their values of m are the same.
+<img>
+:What makes these two lines different is their position.
+<img>
+:Their position is governed by a value known as the y-intercept.
+<img>
+:Actually all liner equations can be written in this form and c is the y-intercept (and m is the gradient):
+<maths>
+:The graph will intercept y-axis at c and therefore c is known as the y-intercept.
+<img>
+ 

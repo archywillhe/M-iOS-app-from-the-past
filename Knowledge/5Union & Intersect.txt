@@ -1,0 +1,16 @@
+<title>Union
+:When we have 2 sets (A and B) and we want to combine them into a single set, we can union them
+<maths>union
+:Even after unioning two sets, we are not going to have duplicate element in a set, and that is because in set theory, we only concern about the types of things in a set, but not the quantity.
+<maths>A1
+<maths>B1
+<maths>AB11
+<title>Intersect
+<img>UNIX
+:When we have 2 sets (A and B) and we want to create a new set that has the common element in them, we can intersect them
+<maths>inter
+:Even after unioning two sets, we are not going to have duplicate element in a set, and that is because in set theory, we only concern about the types of things in a set, but not the quantity.
+<maths>A1
+<maths>B1
+<maths>11BA
+<img>inx

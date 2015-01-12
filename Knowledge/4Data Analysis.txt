@@ -1,0 +1,21 @@
+<title>Percentiles, quartile and interquartile range
+:Percentile is one of the 99 points that divide an ordered data set into 100 equalsc groups.
+<img>
+:For example, if a value is in the 1th percentile, it is higher than (or equal to) 1% of the other value.
+<img>
+:Quartile is one of the 3 points that divide an ordered data set into 4 equal groups, each group comprising a quarter of the data.
+<img>
+:The first quartile (Q1) is actually just the 25th percentile, and it is also known as the lower quartile.
+<img>
+:The second quartile (Q2) is just the 50th percentile, and it is what we called the median.
+<img>
+:The third quartile (Q3) is just the 75th percentile, and it is also known as the upper quartile.
+<img>
+<n>
+:Interquartile range is also known as the midspread.
+<img>
+:It is basically the difference between the upper and lower quartiles.
+<img>
+<n>
+<title>Standard deviation
+

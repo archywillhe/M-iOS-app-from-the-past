@@ -1,0 +1,59 @@
+<title>Polygon
+:A polygon is a flat shape consisting of straight lines that are joined to form a closed chain.
+<img>pologonn
+:When we talk about different types of polygon, we are mostly concerned about the shapes (but not the sizes).
+<img>onlyshapes
+:Two figures can be viewed as the exact same polygon, even when one is bigger than the other.
+<img>samepoly
+<title>Basic types
+<n>
+<title>Simple polygons
+:Simple polygons are polygons with sides that do not overlap. Its oppoiste is complex polygons.
+<img>simplecomplx
+:Simple polygons can be further classified into different types.
+<n>
+<title>Triangle
+:Triagnle are simple polygons with three straight lines as sides.
+<img>triangle
+<title>Quadrangle (or Quadrilateral)
+:Quadrangles are simple polygons with four straight lines as sides.
+<img>quadrangle
+<title>Parallelogram
+:Parallelograms are quadrilaterals with two pairs of parellel sides.
+<img>parallelogram
+<title>Rectangle
+:Rectangles are parallelograms with all angles 90degree.
+<img>rect
+<title>Rhombus
+:Rhombuses are parallelograms with all sides eqaul in length.
+<img>rhombus
+<title>Square
+:Squares are basically the combination of rhombus and rectangles: all sides eqaul in length with two pair of sides parellel.
+<img>square
+<title>Trapezium
+:Trapeziums are quadrilaterals with only one pair of parellel sides.
+<img>trapezium
+<n>
+<title>Advanced classification
+<n>
+<title>Convex polygon
+:Convex polygons are simple polygons with all internal angles less than 180 degrees.
+<img>convex
+<title>Concave polygon
+:Concave polygons are simple polygons with one or more internal angle more than 180 degrees.
+<img>concave
+<title>Regular polygons
+:Regular polygons are simple polygons that have all angles equal in sides and all sides eqaul in length
+<img>regular
+<title>Pentagon
+:Pentagons are five-sided regular polygon.
+<img>pentagon
+<title>Hexagon
+:Hexagons are six-sided polygon with all sides eqaul in length.
+<img>hexagon
+<title>Circle
+:The more sides a regular polygon has, the more it looks like a circle. Actually, as the number of sides a regular polygon approaches infinite, its shape becomes a circle.
+<img>wocirclex
+<img>wocircle2
+<img>circle
+

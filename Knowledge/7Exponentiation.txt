@@ -1,0 +1,35 @@
+<title>Base raised to a positive integer power
+:Exponentiation is a mathematical operation.
+<maths>ba
+:The number below is known as the base, while the smaller number above is known as the exponent (also known as power or index).
+<img>baba
+:When the exponent is a positive integer (not fraction), it is equilvant to the repeated multiplication of a number (the base).
+<img>nnx
+:We call it a square when the exponenet is 2, and a cube when the exponenent is 3.
+<maths>sqc
+:There isn't a speical name for exponent that is bigger than 3. Normally we simply say that the base "raised to the n-th power", or "raised to the power of n", or "raised by the exponent of n", etc.
+<n>
+<title>Base raised to 0
+:When the exponent is 0, we will always get 1 as the final value.
+<img>nzeo
+<title>Base raised to a negative power
+:When the exponent is a negative number, it is equilvant to divding 1 by the base raised to the exponent in positive form.
+<img>enega
+<title>base raised to a fractional power
+:When the exponent is a fraction, it is equilvant to finding the Dth (D = the denominator) root of the base, and then raising it to the power of N (N = the numerator).
+<img>powerfra
+<maths>powerfrae
+:Therefore all surds can be re-written as an expression with base raise to a fractional power.
+<maths>surdgone
+<title>multiplication and division
+:When we multiply two expressions with the same base, x, but different exponent, it is the same as x raised to the sum of the exponents.
+<img>exponentsum
+:When we divide two expressions with the same base, x, but different exponent, it is the same as x raised to the difference between the exponenets.
+<img>exponentdif
+<title>base raised to an exponent and then to another exponent
+:When an expression with a base, x, raised to an expoent and then to another exponent, it is the same as x raised to the product of the exponents.
+<img>exponenttt
+<n>
+<title>Fractorising expressions with exponents
+:All expressions with a base raised to an exponent can be factoirsed into two expressions with different bases raised to the same exponent.
+<img>exfac

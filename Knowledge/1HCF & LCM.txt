@@ -1,0 +1,57 @@
+<title>Introduction
+:Integers are any number that is not fractional. Integer = whole number.
+<img>integer
+:Primes (or prime numbers) are positive integers that can only be divided two numbers: 1 and itself [without giving remainder or decimal].
+<maths>prime
+<title>Prime factorisation
+:Factorizing a number would mean finding what positive integers the number can be divided by.
+<maths>fact1
+:To fully factorize a number, our final result should be a group of prime numbers.
+<maths>factno
+<maths>fact2
+<n>
+<title>HCF and LCM
+:After fully factorizing two numbers 
+:E.g. 12, 16
+<maths>fact3
+:we can find their highest common factor (HCF) and lowest common multiple (LCM).
+<n>
+:1.Highest common factoe is the biggest number that these two numbers can be divided by.
+<img>HCF
+:To find the HCF, we have to check and see what prime factors these two number share:
+<maths>fact4
+:Multiplying them together would give the HCF.
+<maths>fact5
+<n>
+:2.Lowest common multiple is the smallest number that can be divided by these two numbers.
+<img>LCM
+:To find the LCM, we too have to check and see what prime factors these two number share:
+<maths>fact4
+:And then just multiply all prime factors together but leave out the common factors:
+<maths>fact6
+:This is the same as to multipying these two number and divide the product by the HCF:
+<maths>fact7
+<n>
+<title>Sqaure Root
+:When a number can be written as the product of two same numbers, we called it a perfect square.
+<maths>prefectness
+:We can find a perfect square's square root after facotrising it. 
+<maths>fact8
+<maths>fact9
+<maths>factz1
+:The symobl in front of 12 means that the answer can be either positive 12 or negative 12.
+<maths>factz2
+:That is because multiplying -12 by itself can give us 144 too.
+<maths>factz3
+<img>trollolol
+:And this applies to all positive numbers, so all positive numbers have two square roots, one positive, the other one negative.
+<n>
+<title>Cube Root
+:We can also find the cube root of a perfect cube after factorising it.
+<maths>fact10
+<maths>fact11
+<maths>factz5
+:Unlike suqare root, there is only one cube root for all numbers.
+<maths>factz6
+:Multiplying a negative number three times does not give us a positive number.
+<n>

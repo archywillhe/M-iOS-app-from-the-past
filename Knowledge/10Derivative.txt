@@ -1,0 +1,46 @@
+<title>defining derivative
+:Derivative is simply a measure of how a function output changes as its input changes.
+<img>deriv
+:In linear function, derivative can be thought of as the slope of the function, because the function's output changes constantly according to its input. 
+<img>constantslope
+:But when it is not a linear function, its output does not changes constantly according to its input. 
+<img>notconstant
+:Therefore the entire function would not have a slope, because each point does not have the same derivative.
+<img>notsameder
+:You can view it as that each point has a different "slope".
+<img>differentslope
+:To find "the slope" at a particular point, in other words, to find the derivative at a particular point, we can start off by drawing a line across that point and another point(it can be any point).
+<img>secant
+:After it is drawn, to find the derivative, we just have to "compress it" by shifting the second point closer and closer to the first point and move this line accrodingly as we do it.
+<img>compress
+:And we would get a new line. That is known as the tagent line at that point and its slope is equivalent to "the slope" at that point, in other words, the derivative at that point.
+<img>overalllines
+:This is how we can obtain the derivative. There is the formula for it:
+<img>formaldef
+:The differenication rules that you will learn later can all be explained by this formula.
+<img>
+<title>differenication techniques
+:The process of finding the derivative is known as differenication.
+<maths>
+:Here are few basic things to remember when it comes to doing differenication.
+1.
+
+:Here are differenication rules that will be useful when it comes to doing differenication.
+1.power rule
+
+2.sum rule
+
+3.product rule
+
+:The slope of the function x^2 is 2x.
+<img>
+:This would mean the slope at 1 is 2, while the slope at 2 is 4.
+:And since this slope is every-changing, we prefer to call it derivative.
+<animation>
+:A more formal definiton of derivative is
+<img>The derivative of
+<title>finding derivative
+:If the derivative of f exists at x, the function is differentiable at x.
+<img>
+:If the derivative of f exists at every point that is between a and b, the function is differentiable on (a,b).
+<img>

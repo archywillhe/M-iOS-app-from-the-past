@@ -1,0 +1,97 @@
+<title>Trigonometric functions
+:A trigonometric function is basically a function that takes in a triangle's angle as input and outputs a fraction with one side length of that triangle as numerator and another side length as denominator.
+<img>trigof
+<title>Sine, Cosine and tangents
+:Different trigonometric functions outputs different fractions. The basic trigonometric functions are the sine, cosine and tangent.
+<img>triangfg
+<maths>sin
+<maths>cos
+<maths>tan
+:To remember them, you can either use this mnemonic (mnemonic is a device that ):
+<maths>
+:Or just follow these steps...
+<b>
+:1) hypotenuse is the longest word, so it refers to the longest side.
+<img>
+:2) now think of sine and cosine as a couple, and they are over-hyper (over hypotenuse)
+<img>
+:3) Now recall the song gangdam style.
+<img>
+:"Op op oppa gangham style!"
+:Op always comes first, and so sine, the first function, would have opp (opposite) first in the fraction, then followed by hypotenuse because she is over-hyper. Meanwhile, cosine would be the other possible combo, which is adjacent / hypotenuse.
+<img>
+:4) Now think of tan as some suntan guy. He is not hyper at all.
+<img>
+:"Op op oppa gingham style!"
+:Op always comes first, so tan has opp over something, and the something must be adjacent (He is not even hyper, so he is not over-hyper at all.)
+<img>
+:Conclusion: You have a couple who are over-hyper and a suntan guy. And "Op" always comes first.
+<b>
+:If you are having a hard time remembering which side "Adjacent" refers to, just find the side that is not opposite of the angle and also not the longest and highlight it with a hightlighter.
+<img>
+:This way would make things less confusing and you will be able to spot the adjacent side instantly.
+
+<title>Important trigonometric identities
+:Since sine and cosine is a couple, they have a very strong relationship:
+<img>
+<maths>Sine(x) = Cosine (90-x)
+:Therefore because 
+<maths>Sin(90) = 1
+:We can tell that
+<maths>Cos(0) = 1.
+:And because
+<maths>sin(0) = 0,
+:We can also derive that
+<maths>Cos(90) = 0
+:The same goes to
+<maths>sin(30) = 0.5 cos(60) = 0.5
+:Sin() any value outputs the same result as cos(90 - the value).
+:The mathematical reason behind it is:
+<img>
+<n>
+:This couple's relationship is so strong that sometimes it seems magical:
+<maths>sin(a)^2+cos(a)^2 = 1
+:The mathematical reason behind it is:
+<img>
+<n>
+:One thing you should always remember about the sun tan guy is that he is really strange:
+<img>
+<maths>tan(x) = sin(x)/cos(x)
+:The mathematical reason behind it is:
+<img>
+<n>
+<title>Applying trigonometric function
+:We can use the trigonometric function to find the side length of a triangle.
+<img>
+:We can also use it to 
+find the area of a triangle.
+<maths>1/2 ab sin C
+:The mathematical reason behind it is:
+<img>
+<title>inverse trigo functions
+:If you are given the sides of the triangle and you want to find the angle, the inverse trigo functions should be used:
+<img>
+<maths>sin^-1(a) =
+<maths>cos^-1(a) =
+<maths>tan^-1(a) = 
+:The inverse trigo functions can also be written by placing "arc" at the start of the word: arcsine, arccosine, arctangent.
+:Do not confuse this with exponential. x^-1 doesn't mean "inversing power". x^-1 = 1/x
+<title> other trigo functions
+:Besides sine, cosine, tangent, there are other trigo functions as well:
+<maths>cotangent = adjacent / opposite;
+<maths>secant = hypotenuse/opposite/
+<maths>cosecant = hypotenuse / adjacent
+:They are like the shadow of the basic trigonometry functions:
+<maths>cot(a) = 1/tan(a)
+<maths>cse(a) = 1/sin(a)
+<maths>sec(a) = 1/cos(a)
+:And this also means
+<maths>cot^-1(a) = 1/tan^-1(a)
+<maths>cse^-1 = 1/sin^-1(a)
+<maths>sec^-1 =  1/cos^-1(a)
+<img>
+
+
+
+
+

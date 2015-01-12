@@ -1,0 +1,78 @@
+<title>intro
+:We can rewrite an expression in a way that it will still express the same value.
+<maths>rewrite
+:By writing an expression in an entirely different way, we are manipulating it.
+<maths>mani
+:We can simplify an expression by manipulating it 
+<maths>sim
+:Or expand an expression:
+<maths>expa
+:But before we start manipulating an expression, we have to keep certain things in mind.
+<img>mind
+:First thing is that, when letters are in an expressions like this:
+<maths>multx1
+:we prefer to omit the multiplcation sign and write it as
+<maths>multx2
+:If there is a number in the multiplcation:
+<maths>multx3
+:we need to place the number in front of the letter:
+<maths>multx4
+:but not behind the letter:
+<maths>multx5
+<img>no
+:Second thing is that, divison should always be written as a fraction
+<maths>di1
+:Trust me, things would be easier this way when we start manipulating the expression.
+<maths>di2
+:And this way we can change a division into a multiplcation
+<maths>di3
+<titile>basic manipulation
+:To manipulate an expression, we should start off by seeing everything in the expression as different blocks of symbols.
+<img>blocks
+<img>blockit
+:When two blocks consist of the same factor, addition and subtraction can take place.
+<maths>addb1
+<maths>addb2
+:When the addition or subtraction does not give a single value result, we can write them in brackets
+<maths>addb4
+<maths>addb3
+:And thus expressions that have a bracket like this can be expanded
+<maths>brac
+:Addition and subtraction can also take place when two fraction have the same denominator.
+<maths>deno
+:When two blocks that made up of a fraction consist of the same factor, we can factorise it.
+<maths>fracts
+:That is because dividing the value by the same value is equal to 1.
+<maths>bbc
+<maths>bbc2
+:So if the two values are different, we can still do the same trick, but we would not get 1.
+<maths>bbc3
+<title>slightly advanced manipulation
+:In order to simplify expressions that are slightly complex,
+<maths>complx
+<maths>complx2
+:we need to be more observant and spot the keys to the simplification.
+<img>eyes
+:These are two very important equations that we should always keep in mind:
+<maths>eq1
+<maths>eq2
+:When we have brackets with a lot of things in it,
+<maths>lots
+:remember that we should always "do each and single one of them" as we expand it.
+<maths>expa
+:When we have two fractions multiplying by each another,
+<maths>twofrac
+:"top floor X top floor, bottom floor X bottom floor"
+<maths>twofrac2
+:But when we have two fracctions one dividing the other,
+<maths>twofrac3
+:we should always change it into a multiplcation by flipping either one of it:
+<maths>twofrac4
+<maths>twofrac5
+:When the expression is consist of two fractions with different denominators
+<maths>diffde
+:addition and subtraction can still take place but we have to first convert them into fractions with the same denominators:
+<maths>diffde2
+
+
+

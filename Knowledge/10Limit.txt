@@ -1,0 +1,93 @@
+<title>Introduction
+:Limits are essential to calculus and many other branches of maths. To fully understand limits, we would need to know what a function is.
++<maths>WORDfunction
+:A function is a relation between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output.
++<maths>functionONEoutput
+:Before a function starts taking input and outputing value, you have to define it by writing an equation with an expression at the right side telling what should be done to the input x.
+<maths>functiondefine
+:After the function is defined, it can take in value as input and output another value as it replaces x with the input value.
+<maths>functionoutput
+:You can think of function as a mathematical machine that takes in a value as input and outputs another value.
+<img>machinex
+:One thing to keep in mind is that, for every input, a function can only output a single value. We should never define a function that can output more than one values.
+<maths>functionno
+<img>no
+<n>
+
+<title>Definition of Limit
+<img>limit
+:In mathematics, the term "limit" does not share the same meaning as the English word limit in everyday's life.
++<maths>limit!=restriction
+:In mathematics, a limit is the value that a function's output will approach when its input approaches some value.
++!<img>limitindigram
+:To better understand the concept of limit, let's take a look at the graph below:
+<img>limit1
+:If we are to input 1 into the function, it will output "undefined" because division by zero is involved.
+<maths>limitc
+:However if we are to find the limit of f(x) as x appraoches 1, we will get 2 as a result.
+<maths>limitw
+:This can be seen from the graph. We will expect the output to be 2 when the input is 1 (although the graph has a "hole" at that point).
+<img>limitsee
+:And as we input value that 
+:You can think of the limit of f(x) as x approaches certain value A as an expectation of what the output value should be when the input is A.
+<n>
+
+<title>more about limit
+:There are 2 cases when the limit does not exist.
+<img>exist
+:The first case is that, the limit is unapproachable. Take this limit as an example:
+<maths>caseone1
+:The limit of f(x) as x approaches 5 does not exist because x can't even approach the value 5 in the function. And that makes the limit unapproachable.
+<img>caseone2
+:The second case is that, the limit approaches from the left is different from the limit approaches from the right. Take this limit as an example:
+<maths>casetwo1
+:When x approaches 2 from the left, the limit is 4, but if x approaches 2 from the right, thte limit is 6.
+<img>caseone2
+:That is why the limit does not exist. However, its one sided limit exists.
+<maths>onesided
+:One-sided limit is the limit of a function as x approaches a specific value either from the left or right on the graph.
+<maths>onesided1
+<maths>onesided2
+:Therefore we can conclude that, when the two one-sided limits exist and have the same value, the function's limit exists.
+<maths>limitconclude
+:Take note that when we talk about "the limit of f(x) as x approaches some value", we are not referring to the one-sided limit. Instead, we are referring to the limit of f(x) as x approaches to the value from both left and right.
+<maths>limitdifference
+
+<title>finding limit
+:We can find the limit of a function by looking for it on the graph, simply inputting it in the function, factorizing the equation, or using sandwich theorem.
+:1.looking for it on the graph
+:Well, we would have to have the graph first and just find the right xy coordinate.
+<img>
+<b>simply inputting it in the function
+:This is the easiest way, but it doesn't work all the time, because sometimes though the limit exists, the output value may be undefined.
+<img>
+<b>factorizing the equation
+:Many of the time when the limit exists, slightly changing the function like factorizing out the denominator would help us find what the limit it
+<img>
+<b>using sandwich theorem
+:This theorem simply says that
+<img>
+would indicate that
+<img>
+:We can only use sandwich theorem when we already know the other two limits of another two functions.
+<img>
+<title>infinity in limit
+:When finding some limit of a function, there are chances that we have to deal with infinity.
+<img>
+:We have to be a little bit abstract here. First thing we have to remember is that, infinity is not a number, so finding the limit of x as x approaches infinity is actually saying that:
+!Find the output value of f(x) as the input value gets more and more gigantic until to a point when it is so enormously huge that it is greater than any assignable quantity or countable number.
+:Examples:
+<maths>
+:As the value of x gets larger, the output value would too get larger. So x divded by any positive number, as x goes to infinity, would always give you back infinity.
+<maths>
+:However, if x is divided by a negative number as x goes to infinity, you would get negative infinity instead.
+<maths>
+:When a positive number is divided by x as x goes to infinity, think of it as that the postive number is staying constant while x is becoming larger and larger, no matter what the positive number is, it would still be considered too small for x. And since x is so big that it is infinity, you would get 0 as a result.
+<maths>
+:The same logic applies to any negative number being divided by x as x goes to infinity.
+<maths>
+:Addition and Subtraction of x as x goes to infinity would always get back infinity. Subtracting or adding a constant number to an enourmous number wouldn't make much difference. And since x is infinity, subtracting and adding make no difference.
+<maths>
+:Multiplication of x as x approaches infinity would either get back infinty, 0, or negative infinity. You can visualize it by thinking what would happen to the ouput as x as gets bigger and bigger.
+<maths>
+:When calculating the limit of a function as x goes to infinity, we should always do all the factorisation first. "Pluggin" in infinity in the equation first may give us inaaccurate results so inaccurate that they are completety wrong. 

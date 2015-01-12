@@ -1,0 +1,28 @@
+<title>similar figure
+:When two 2-dimenional figures have the exact same shape,
+<img>sameshape
+:we can say they are similar figures.
+<img>similarz
+:It doesn't matter if one figure's shape is the mirror image of the other's, they are still considered as having the same shape, and therefore they are similar figures.
+<img>similar2
+:Similar figures have
+<n>
+:1.angles same in size
+:2.side lengths same in ratio
+<n>
+<img>biggerversion
+:All squares are similar figures
+<img>allsquare
+:All circles are similar figures
+<img>allcircles
+:Two triangles are similar figures only if they have the same angles.
+<img>trianglelol
+:If two triagnles have side lengths same in ratio, they have the same angles too.
+<img>trianglewowowo
+:If not they don't have the same shape.
+<img>shapeshare
+<n>
+<title>congruent figure
+:When two similar figures have the same size (or area), they are called congruent figures.
+<img>congruentx
+:The word Congruent means "identical in form; coinciding exactly when superimposed".

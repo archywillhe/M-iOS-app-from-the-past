@@ -1,0 +1,35 @@
+<title>intro
+:Logirthm can be thought of as the reverse process of exponentiation.
+<img>
+:When we log a number, we have to specify the base and we will get the exponent by which the base has to be rasied to get that number:
+<maths>
+:Here are some examples of logarithms
+<maths>
+<maths>
+:When log(x) is written without specifying any base, it would be taking 10 as the base and that is known as the common logarithm.
+<maths>
+<title>rules
+:Here is a list of laws that will be useful when it comes to manipulating logirthms.
+<img>
+<title>natural log
+:There is a speical type of Logirthm, called the natural log. It is written as
+<maths>
+:Bascailly it is just the logirthm to the base e, which is an irrational constant just like pi.
+<maths>
+:e is also known as the Euler's number, or Napier's constant.
+<maths>
+:To understand what makes e, this irrational number, so speical, let's take a look at this question:
+<img>
+:"An account starts with $1.00 and pays 100 percent interest per year. If the interest is credited once, at the end of the year, the value of the account at year-end will be $2.00. What happens if the interest is computed and credited more frequently during the year?"
+<img>
+:Now, we can see that we would get $1 as the interest if it is credited only once, at the end of the year.
+<math>
+:But if the interest is credited twice a year (at the middle and end of the year), with 50% each time, we would also get a 100% of interest, but we would get $1 as the total interest because, due to the growth in the first credit, it credits a little bit more in the second time.
+<maths>
+:Now what about we credited 12 times a year (each month credit once) with each time 100/12%? (so add up together is still 100%) We would get $ as the total interest! As we make the frequency higher and higher (so that every credit there is a small growt), we get a bigger and bigger sum of money as interest, even though it is still in total 100% interest a year.
+<maths>
+:Therefore we now have this formula for the total interest in a year (where n is how many time it has been credit through the year):
+<maths>
+:And when the value of n gets larger and larger and become infinity, we will arrive at e.
+<maths>
+:e is indeed the value.

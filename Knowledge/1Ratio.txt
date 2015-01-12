@@ -1,0 +1,42 @@
+<title>Introduction
+:A changing quantity is a value that changes over time. One example of changing quantity is the memoery in your iPhone.
+<img>iphone
+:Another example would be the HP of a video game character.
+<img>hp
+<n>
+<title>Ratio
+:Ratio is a way to show the relationship between two or more changing quantities.
+<img>ratio
+:Imagine you are Bill Gates and 1 second you can make $500.
+<img>billgate
+:You can write it down as a ratio.
+<maths>5000
+:In 2 seconds, you would have $1000. You can aslo write that down as a ratio.
+<maths>100000
+:The ratio 1000:2 is equivalent to 500:1.
+<maths>equal
+:That is because when we are writing a ratio, we are just writing down a relationship between the two changing quantities.
+<maths>2values
+:The ratios 500:1 and 1000:2 both display the same relationship.
+<img>whatitallmeans
+:We would prefer to write the relationship as 500:1 though, because 500:1 is in its simplest form.
+<maths>simple
+<title>Simplest form
+:As long as there is no common prime factor between the two values, and the values are not fractions, the ratio is in its simplest form.
+<maths>simple2x
+<maths>simple2
+:Although normally nobody would write ratio in fractions, there is no rule saying it can't be done. But we should always convert it into its simplest form.
+<n>
+<title>rate
+:A rate is a ratio between two changing quanities that are in different units.
+<maths>differentunit
+:The ratio above, 1:500, is a rate because 1 and 500 are in different units(dollar & second). It can be futher written as
+<maths>furtherwritten
+:Speed is also a rate. And the ratio above can also be considered as a speed. However, in mathematics speed is normally thought of as a distance per unit time.
+<n>
+<title>Speed
+:Speed is defined as the ratio between a changing qunaity (normally distance) and time.
+<maths>speed
+:Therefore any speed is also a rate and it can be rewritten as
+<maths>speedooh
+

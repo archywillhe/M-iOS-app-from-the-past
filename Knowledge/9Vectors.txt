@@ -1,0 +1,26 @@
+<title>introduction
+:To better understand what a vector is, we need to know what a plane and Cartesian coorindate system are.
+<n>
+:A plane is a two-dimensional space (a space with only length and width). 
+<img>plane
+:When coordinates are used to specify each point uniquely in a plane, we have made the entire thing into a coordinate system. This coordinate system is known as a Cartesian coordinate system.
+<img>usedcor
+<titile>vecotr
+:In geometry, a vector is bascially a qunaity wih two independent properties: magnitude and direction.
+<maths>magn
+:A vector can be visulized as just a line with an arrow.
+<img>vecin
+:A force, for example, is a vector. It has both magnitude (how strong it is) and direction (where it is going).
+<n>
+<title>addition and subtraction of vectors
+:Two vectors can be added or subtracted by one another.
+<img>vectoradd
+<img>vectorsub
+<n>
+<title>multiplication and division of vectors
+:A vector can be multiplied or divided by a scalar.
+<img>vectormu1
+<img>vectormu2
+<img>vectormu1
+<img>vectordivi2
+

@@ -1,0 +1,16 @@
+:Probability is an estimation of how likely it is that something will happen in the future.
+<img>
+:If an event has 100% chance of happening, that means the event will definitely happen. If an event has 0% chance of happening, that means it will not happen.
+<img>
+:Let's say I have two boxes and there is a frog in one of the boxes.
+<img>oppenbox
+:Without knowing which box has frog in it, the chance of you picking the one with the frog is 50%.
+<img>froggy
+:Imagine now these two boxes have been placed inside a house, and you are given two houses to decide where the boxes are in.
+<img>
+:Without knowing which house has the boxes, the chance of you picking the house with the boxes is 50% and the chance of you picking the correct house and picking the correct box is now 25%.
+<maths>
+:Now let's invite Justin Bieber to the house with no boxes.
+<img>bieberinthehouse
+:The chance of meeting either Justin Bieber or the frog is now 75%.
+<maths>

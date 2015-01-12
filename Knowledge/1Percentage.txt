@@ -1,0 +1,28 @@
+<title>intro
+:A percentage is a number as a fraction of 100. It is often followed by the percent sign "%".
+<img>percento
+:Since it is a number as a fraction of 100, 100% is equal to 1.
+<maths>equaltoone
+:And 50% is equal to 0.5, 20% is equal to 0.2, 21.1% is equal to 0.211, and so on.
+<maths>equalxz
+:A percentage can be bigger than 1. For example, 500% is a percentage and it is equal to 5.
+<maths>equalxzz
+:Percentage can be thought of as just a different way of writing a number.
+<n>
+<title>percentage as a relationship
+:Percentage is often used to show the relationship between two values.
+<maths>percentre
+:Let's say I have 500 songs in my iPhone, and I delete 200 of them. We can show the number of songs deleted as a percentage of the total number of songs.
+<maths>percentra2
+<title>percentage as a rate of change
+:Percentage is also often used to show the rate of change, or in other words, to show how a value changes over a peroid of time.
+<n>
+:Let's say I have 40 girlfriends and my number of girlfriends increases by 50% every month:
+<maths>gfx
+:One month later I will have 60 girlfriends.
+<maths>gfxx
+:And one more months later I will have 90 girlfreinds.
+<maths>gfxx2
+:Or let's say I have 40 boyfriends in the first month, and I only have 18 boyfriends left in the second month.
+<maths>bfgone
+:The number of boyfriends has decreased by 22, and 22 is 55% of 40, so we can say that the number boyfriend has decreased by 55% over a month.

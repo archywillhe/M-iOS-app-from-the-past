@@ -1,0 +1,34 @@
+<title>Introduction
+:Statistics is the study of the collection, organization, analysis, interpretation, and presentation of data.
+<img>statis
+:Data can be thought of as information. 
+:Though...[Read more]
+<maths>data
+:There are basically two types of data: qualitative and quantitative.
+<maths>vsx
+:Quantitative data are data that are expressed in words.
+<img>qd
+:Meanwhile, qualitative data are data that are expressed only in numbers.
+<img>qqd
+:A collection of data is known as a data set.
+<img>
+<n>
+<title>Mean, mode, median and range
+:In statistics, the word "mean" stands for "average".
+<maths>average
+:To find the mean in a data set, we just need to calculate the average value.
+<img>meanx
+:In statistics, the word "mode" stands for "the value that occurs most frequently".
+<maths>ocx
+:To find the mode, we just need to see which value appears the most.
+<img>mode
+:In statistics, the word "median" stands for "the middle value".
+<maths>midx
+:To find the median, we just need to align everything in order and see which value is at the middle.
+<img>medx
+:If there are two values at the middle, we take their average as the median.
+<img>medianxc
+:In statistics, the range is the difference between the smallest value and the biggest value.
+<maths>dix
+:"Range" basically shows the biggest "gap" between two values in a data set.
+<img>gapapap

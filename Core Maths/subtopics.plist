@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string></string>
+	<array>
+		<array>
+			<integer>142</integer>
+			<integer>204</integer>
+			<integer>161</integer>
+			<string>Lalala these topics are really simple. You just need to spend some time to understand them and they would appear to be common sense.</string>
+		</array>
+		<string>Positive &amp; Negative</string>
+		<string>HCF &amp; LCM</string>
+		<string>Ratio</string>
+		<string>Percentage</string>
+	</array>
+	<array>
+		<array>
+			<integer>110</integer>
+			<integer>146</integer>
+			<integer>250</integer>
+			<string>The geometry taught in sec 1 and sec 2 is pretty simple. It is basically just about shapes, sizes, and relations (how two figures relate to each other).</string>
+		</array>
+		<string>Angles</string>
+		<string>Polygons</string>
+		<string>2D &amp; 3D</string>
+		<array>
+			<string>1</string>
+			<string>Similar Figure</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<integer>157</integer>
+			<integer>213</integer>
+			<integer>241</integer>
+			<string>Algebra is not that hard. It doesn&apos;t require much memorising. To be good at algebra you just need to understand some of the concepts.</string>
+		</array>
+		<string>Representation</string>
+		<string>Manipulation</string>
+		<string>Solution</string>
+		<string>Graph</string>
+	</array>
+	<array>
+		<array>
+			<integer>91</integer>
+			<integer>160</integer>
+			<integer>245</integer>
+			<string>They don&apos;t teach much about statstics in secdonary school. And that makes statstics a giveaway in exams.</string>
+		</array>
+		<string>Basics</string>
+		<string>Data Presentation</string>
+		<string>Data Analysis</string>
+		<string>Probability</string>
+	</array>
+	<array>
+		<array>
+			<integer>116</integer>
+			<integer>186</integer>
+			<integer>250</integer>
+			<string>Set theory is a branch of maths that studies &quot;collections of objects&quot;. You just have to understand the notations used in set theory and it would be a giveaway in exams.</string>
+		</array>
+		<string>Sets</string>
+		<string>Union &amp; Intersect</string>
+	</array>
+	<array>
+		<array>
+			<integer>80</integer>
+			<integer>158</integer>
+			<integer>247</integer>
+			<string>Trigonometry evloved from geometry. Unlike geometry, trigonometry only focuses on triangle. And that is because triangles are cool.</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>Pytha&apos; Theorm</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>Trigo Functions</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>Trigo Laws</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<integer>254</integer>
+			<integer>166</integer>
+			<integer>94</integer>
+			<string>Despite the fact that this is called &quot;high-level calculation&quot;, they are just simple things.  Take some time to learn them, and you would realize how easy they are.</string>
+		</array>
+		<string>Exponentiation</string>
+		<array>
+			<string>4</string>
+			<string>Logarithm</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>Matrix</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>Absolute Value</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<integer>243</integer>
+			<integer>190</integer>
+			<integer>72</integer>
+			<string>This is a slightly advanced topic in algebra. They may look complicated and confusing at the start, but they are indeed some simple and elegant things.</string>
+		</array>
+		<string>Polyno&apos; Division</string>
+		<string>Inverse Matrix</string>
+		<string>Partial Fraction</string>
+		<string>Bino&apos; Therom</string>
+	</array>
+	<array>
+		<array>
+			<integer>237</integer>
+			<integer>135</integer>
+			<integer>116</integer>
+			<string>Now, geometry starts to get interesting. But it is still very easy.</string>
+		</array>
+		<string>Vectors</string>
+		<string>Circle</string>
+		<string>Coordinate Geo&apos;</string>
+		<string>Proof</string>
+	</array>
+	<array>
+		<array>
+			<integer>251</integer>
+			<integer>91</integer>
+			<integer>106</integer>
+			<string>Calculus is basically a branch of maths that studies continuously changing quantities. Calculus may look very complicated at the start but it is acutally very easy. </string>
+		</array>
+		<string>Limit</string>
+		<string>Derivative</string>
+		<string>Points</string>
+		<string>Integral</string>
+	</array>
+</array>
+</plist>

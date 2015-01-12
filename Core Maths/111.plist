@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>real number</key>
+	<string>Real numbers are basically numbers that can be found on the number line.  There are &quot;numbers&quot; that are not real numbers. One example would be the imaginary number.</string>
+	<key>Wikipedia</key>
+	<dict>
+		<key>real number</key>
+		<string>A real number is a value that represents a quantity along a continuous line.</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+<img>
+<title>matrix
+:A matrix is simply a rectangular container containing expressions arranged in rows and columns
+<maths>max
+<maths>cr
+:Matrix can be viewed as just a way of writing a bunch of values together.
+<n>
+<title> matrix addition & subtraction and scalar multiplication
+:When we have two matric with same numbers of rows and colums, we can add them up by adding each corresponding element.
+<img>mxc
+:Subtraction can also take place as long as they have the same nubmers of rows and columms
+<img>mixc
+:When we have a value (also known as scalar) multiplying a matrix, we just multiply every element in the matrix by the value.
+<img>maxii
+<title>Matrix multiplication
+:Multiplication of two matrices can happen only when the number of columns of one matrix is the same as the number of rows of the other matrix.
+<maths>equallx
+<maths>mright
+:When the number of columns of one matrix is not the same as the number of rows of the other matrix, multiplication can't take place.
+<maths>nonma
+<img>no
+:The way Matrix multiplication works is very different from how normal multiplication works.
+<img>different
+
+<title>Linear equation in matrix form and the inverse matrix method

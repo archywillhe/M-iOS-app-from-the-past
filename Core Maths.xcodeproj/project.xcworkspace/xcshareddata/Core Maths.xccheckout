@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6BA91554-0701-4404-B210-15F0CB14B6A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Core Maths</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1315E9DB9468AB5F7EABC62F21EC90E9664BEDB</key>
+		<string>https://github.com/0a-/M.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Core Maths.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1315E9DB9468AB5F7EABC62F21EC90E9664BEDB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/0a-/M.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1315E9DB9468AB5F7EABC62F21EC90E9664BEDB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1315E9DB9468AB5F7EABC62F21EC90E9664BEDB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>M</string>
+		</dict>
+	</array>
+</dict>
+</plist>
