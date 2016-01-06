@@ -24,6 +24,7 @@ Just build it with Xcode and you can start running it in a simulator (looks best
 
 
 >Note: I built this app when I was learning Obj-C and back then I was still quite new to static type languages (it was less than a year after I started learning how to code). So please don't read my code. I can assure you that they are quite crappy (there is little or no naming convention, no commenting, everything is in a mess. And unit-testing was a foreign concept at that time). I will be doing a lot of refractoring soon (potentially re-writing the entire app). My intial plan was to open-source it after that. I'm open-sourcing it now only because I'm applying for Thiel Fellowship, and I would like to include this as one of the projects I've worked on.
+> --Jan 15, 2015
 
 
 Project M. was the third project I worked on after dropping out of school at 16. It is the project which I've spent the most time on. But just like the two previous projects of mine (Connect and Imprss), it didn't go very well. I ended up shelving it in 2013.
@@ -54,13 +55,3 @@ I believe everyone is born an autodidact. Forcing students to "learn" is never g
 Things were progressing rather slowly. A year had passed but the app wasn't quite there yet. I don't want to admit it, but I was quite a naive person back then. I tried to do everything by myself. As a one-man team, I was in charged of designing the GUI, building the iOS app, writing the content and creating the illustrations. I ended up spending about a year working on this project, before finally coming to the conclusion that perseverance was not going to bring me anywhere, I needed to stop daydreaming and realize that I do need a team for a project this ambitious. And as a developer, I was not good enough to work on a project like this. There were a lot more I needed to learn.
 
 So I had it shelved, did my SATs [and got 760/800 for both SAT II physics and maths, but only 1780/2400 for SAT I (could have gotten >2200  but I screwed it up. Initially I was rather ashamed of myself, but then I decided I shouldn't dwell upon the past)] and started freelancing, before getting my first full-time as a full stack developer at a Singapore-based start-up.
-
-#About the future of M.
-
->"The past are not so important now. What matters is the future."
-
-Its goal will no-longer be just to change the education in Singapore, but education around the world.
-
-Instead of having the content locally stored in the apps, I plan to have them in remote databases and have the apps make API calls to the server. There would be a website coming up. And it is going to be like a Github for educational content providers.
-
-I would be looking for a team soon. If you are interested, just drop me an email at a@0a.io, and we shall revolutionize education.
